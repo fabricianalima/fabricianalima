@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, eu sou a Fabi! 👩‍💻✨
 
-<!--
-**fabricianalima/fabricianalima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Desenvolvedora Low-Code (PegaSystems) com foco em Backend Java**
 
-Here are some ideas to get you started:
+Atuo como **desenvolvedora Low-Code utilizando PegaSystems**, criando soluções escaláveis para o negócio. Paralelamente, **estudo Java e Spring Boot para expandir minhas habilidades em desenvolvimento Backend**, visando construir aplicações robustas, limpas e performáticas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Acredito que compreender profundamente lógica de programação, Java e Clean Code me torna uma profissional ainda mais completa, capaz de atuar de forma técnica e estratégica em qualquer stack.
+
+---
+
+🚀 **Projetos em destaque:**
+- Estudos Java e Spring Boot
+- Projetos de Labs de Bootcamps
+- Estruturas de dados e algoritmos
+
+---
+
+📫 **Onde me encontrar:**
+- [LinkedIn](https://www.linkedin.com/in/fabricianalima)
+- [GitHub](https://github.com/fabricianalima)
+
+> ✨ "A prática transforma conhecimento em impacto real." ✨
+
