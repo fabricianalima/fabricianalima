@@ -16,8 +16,8 @@ Atuo como **desenvolvedora Low-Code utilizando PegaSystems**, criando soluções
 ---
 
 📫 **Onde me encontrar:**
-- [LinkedIn](https://www.linkedin.com/in/fabricianalima)
-- [GitHub](https://github.com/fabricianalima)
+- [LinkedIn](https://www.linkedin.com/in/fabriciana-lima)
+- ✉️ [fabricianacorreialima@gmail.com](mailto:fabricianacorreialima@gmail.com)
 
 > ✨ "A prática transforma conhecimento em impacto real." ✨
 
