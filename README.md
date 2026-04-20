@@ -1,23 +1,31 @@
-# Olá, eu sou a Fabi! 👩‍💻✨
+## Olá, eu sou a Fabi! 👩‍💻✨
 
-🎯 **Desenvolvedora Low-Code (PegaSystems) com foco em Backend Java**
+🚀 Desenvolvedora com experiência em Low-Code (PegaSystems) e em times ágeis, atualmente em transição para desenvolvimento Backend com Java.
 
-Atuo como **desenvolvedora Low-Code utilizando PegaSystems**, criando soluções escaláveis para o negócio. Paralelamente, **estudo Java e Spring Boot para expandir minhas habilidades em desenvolvimento Backend**, visando construir aplicações robustas, limpas e performáticas.
+Atuo com desenvolvimento de soluções utilizando PegaSystems, com foco em regras de negócio e automação de processos no setor financeiro em ambientes ágeis (Scrum).
 
-💡 Acredito que compreender profundamente lógica de programação, Java e Clean Code me torna uma profissional ainda mais completa, capaz de atuar de forma técnica e estratégica em qualquer stack.
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="24" height="24" align="left"/>Atualmente, estou participando do bootcamp intensivo de Desenvolvimento Java pela Generation Brasil, com foco em:
+- Lógica de programação
+- Java e Programação Orientada a Objetos
+- APIs REST com Spring Boot
+- Banco de dados (MySQL)
+- Versionamento com Git e GitHub
+- React
+- Metodologias Ágeis
+- Soft Skills (Trabalho em Equipe, Proatividade, Atenção aos Detalhes e Responsabilidade Pessoal)
+
+🎯 Meu objetivo é unir minha experiência em processos de negócio com o desenvolvimento backend, criando soluções robustas, escaláveis e bem estruturadas.
 
 ---
 
-🚀 **Projetos em destaque:**
-- Estudos Java e Spring Boot
-- Projetos de Labs de Bootcamps
+🧑‍💻 **Projetos em destaque:**
+- Estudos em Java e Spring Boot
+- Exercícios práticos do bootcamp Generation
 - Estruturas de dados e algoritmos
 
----
-
 📫 **Onde me encontrar:**
-- [LinkedIn](https://www.linkedin.com/in/fabriciana-lima)
-- ✉️ [fabricianacorreialima@gmail.com](mailto:fabricianacorreialima@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabriciana-lima)
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabricianacorreialima@gmail.com)
 
 > ✨ "A prática transforma conhecimento em impacto real." ✨
 
